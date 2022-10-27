@@ -19,6 +19,7 @@ void debug1(WCHAR* format, ...)
 	va_end(args);
 }
 
+// https://www.winsocketdotnetworkprogramming.com/winsock2programming/winsock2advancedcode1c.html
 void startServer()
 {
 	WSADATA wsaData;
