@@ -7,5 +7,5 @@ You can also find, in the debug console of Visual Studio, some information regar
 
 Compilation requires Visual Studio 2015 with Windows Phone 8.1 support.
 
-Execution requires a Windows Phone 8.1 rooted with WPinternals.
+Execution requires a Windows Phone 8.1 rooted with [WPinternals](https://github.com/ReneLergner/WPinternals).
 
